@@ -1,1 +1,1 @@
-file5 edited in local repository
+new common file5
